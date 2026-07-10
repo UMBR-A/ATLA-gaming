@@ -1,0 +1,27 @@
+{
+  "name": "blockwild-realms",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "three": "0.185.1"
+  },
+  "devDependencies": {
+    "vite": "7.3.6"
+  },
+  "description": "An original first-person voxel survival sandbox for modern desktop browsers.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/THEHORIZON101/ATLA-gaming.git"
+  },
+  "homepage": "https://thehorizon101.github.io/ATLA-gaming/",
+  "engines": {
+    "node": ">=22"
+  }
+}
